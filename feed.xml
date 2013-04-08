@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>2013-04-02T09:00:00Z</updated>
-    <lastBuildDate>2013-04-02T09:00:00Z</lastBuildDate>
-    <pubDate>2013-04-02T09:00:00Z</pubDate>
+    <updated>2013-04-08T04:00:00Z</updated>
+    <lastBuildDate>2013-04-08T04:00:00Z</lastBuildDate>
+    <pubDate>2013-04-08T04:00:00Z</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,52 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#11 和Rei一起聊聊他的创业项目 -- Writings.io</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;主持, 并有幸邀请到&lt;a href="http://writings.io/"&gt;Writings.io&lt;/a&gt;的创始人Rei, 他将
+和我们一起聊聊Writings.io这个项目，以及背后的技术细节和设计思想。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/新世纪福音战士"&gt;新世纪福音战士&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.baike.com/wiki/%E5%87%8C%E6%B3%A2%E4%B8%BD"&gt;凌波丽&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;主持, 并有幸邀请到&lt;a href="http://writings.io/"&gt;Writings.io&lt;/a&gt;的创始人Rei, 他将
+和我们一起聊聊Writings.io这个项目，以及背后的技术细节和设计思想。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/新世纪福音战士"&gt;新世纪福音战士&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.baike.com/wiki/%E5%87%8C%E6%B3%A2%E4%B8%BD"&gt;凌波丽&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.csdn.net/"&gt;CSDN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://codecampo.com/"&gt;CodeCampo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://writings.io/"&gt;Writings.io&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.csdn.net/"&gt;CSDN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://robbinfan.com/"&gt;Robbin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyonrails.org/"&gt;Ruby on Rails&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.mongodb.org/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rails/turbolinks/"&gt;Turbolinks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pjax.heroku.com/"&gt;PJAX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://basecamp.com/"&gt;Basecamp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920018421.do"&gt;Javascript Web Application&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://twitter.github.io/flight/"&gt;Twitter Flight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.google.com/nexus/7/"&gt;Nexus 7&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0"&gt;Kindle Paperwhite&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.com/articles/a860b125-buy-it"&gt;&amp;quot;Buy it&amp;quot;&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/04/08/interview-with-rei-about-writingsio.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_11.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_11.m4a</guid>
+      <pubDate>2013-04-08T04:00:00Z</pubDate>
+      <itunes:duration>5120</itunes:duration>
+      <itunes:keywords>writings.io, front mvc, solo project</itunes:keywords>
+    </item>
     <item>
       <title>#10 开源软件和GitCafe</title>
       <itunes:author>kevin</itunes:author>
