@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 17 Jun 2013 05:00:00 -0000</updated>
-    <lastBuildDate>Mon, 17 Jun 2013 05:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 17 Jun 2013 05:00:00 -0000</pubDate>
+    <updated>Mon, 15 Jul 2013 02:30:00 -0000</updated>
+    <lastBuildDate>Mon, 15 Jul 2013 02:30:00 -0000</lastBuildDate>
+    <pubDate>Mon, 15 Jul 2013 02:30:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,263 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#24 和knewone的李路聊聊技术和精益创业</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持, 邀请到&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;的创始人&lt;a href="http://weibo.com/coocooba"&gt;李路&lt;/a&gt;一起聊聊炫酷的硬件，精益创业，技术，Emacs, Lisp…&lt;/p&gt;
+
+&lt;p&gt;关于李路:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/coocooba"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/cookiepapa"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="lilu.life@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt; 主持, 邀请到&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;的创始人&lt;a href="http://weibo.com/coocooba"&gt;李路&lt;/a&gt;一起聊聊炫酷的硬件，精益创业，技术，Emacs, Lisp…&lt;/p&gt;
+
+&lt;p&gt;关于李路:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/coocooba"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/cookiepapa"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="lilu.life@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/"&gt;knewone&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898"&gt;The Lean Startup(book)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/jawbone-up-2nd-generation"&gt;Jawbone UP2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.gnu.org/software/emacs/"&gt;GNU Emacs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)"&gt;Lisp&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://paulgraham.com/arc.html"&gt;ARC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/oculus-rift-xu-ni-xian-shi-tou-kui"&gt;Oculus Rift&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/10555435/"&gt;七周七语言&lt;/a&gt; &lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://paulgraham.com/"&gt;Paul Graham&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.marco.org/"&gt;Marco Arment&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://itunes.apple.com/us/app/bugshot/id669858907?mt=8"&gt;Bugshot&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2013/07/15/lean-startup-with-knewone.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_24.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_24.m4a</guid>
+      <pubDate>Mon, 15 Jul 2013 02:30:00 -0000</pubDate>
+      <itunes:duration>4954</itunes:duration>
+      <itunes:keywords>lean startup, 硬件, emacs, lisp</itunes:keywords>
+    </item>
+    <item>
+      <title>#23 与 Kgen 聊创业经历和感悟</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期是第 &lt;a href="/2013/07/09/gfw-and-vpncloud.html"&gt;#22&lt;/a&gt; 期的号外篇，22 期录制超过两个半小时，故分了正篇和号外篇。号外篇主要聊了三个部分的内容：1. 技术人员创业讨论以及 Kgen 之前做的几个失败的创业项目 2. 应该如何考虑和做产品文案 3. 如何做独立开发者的思考&lt;/p&gt;
+
+&lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期是第 &lt;a href="/2013/07/09/gfw-and-vpncloud.html"&gt;#22&lt;/a&gt; 期的号外篇，22 期录制超过两个半小时，故分了正篇和号外篇。号外篇主要聊了三个部分的内容：1. 技术人员创业讨论以及 Kgen 之前做的几个失败的创业项目 2. 应该如何考虑和做产品文案 3. 如何做独立开发者的思考&lt;/p&gt;
+
+&lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/07/12/startup-discussion-with-kgen.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_22-2.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_22-2.m4a</guid>
+      <pubDate>Fri, 12 Jul 2013 04:00:00 -0000</pubDate>
+      <itunes:duration>2757</itunes:duration>
+      <itunes:keywords>技术创业, Copy Hacker</itunes:keywords>
+    </item>
+    <item>
+      <title>#22 GFW 技术研究和云梯产品故事</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+
+&lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+
+&lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/防火长城"&gt;GFW&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/SSH‎"&gt;SSH&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/Tor"&gt;Tor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://code.google.com/p/goagent/"&gt;GoAgent&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.dd-wrt.com/"&gt;ddwrt&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://openwrt.org/"&gt;openwrt&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.polarcloud.com/tomato"&gt;Tomato&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud"&gt;RubyConf China 2012 花絮之 VPNCloud 篇&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.pandora.com/"&gt;pandora radio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/07/09/gfw-and-vpncloud.html</link>
+      <enclosure url="http://teahourfm.qiniudn.com/teahour_episode_22.m4a" type="audio/x-m4a"/>
+      <guid>http://teahourfm.qiniudn.com/teahour_episode_22.m4a</guid>
+      <pubDate>Tue, 09 Jul 2013 04:00:00 -0000</pubDate>
+      <itunes:duration>6437</itunes:duration>
+      <itunes:keywords>gfw, vpn, 科学上网</itunes:keywords>
+    </item>
+    <item>
+      <title>#21 跟天使湾聚变计划负责人王磊聊天使投资</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 联合主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。&lt;/p&gt;
+
+&lt;p&gt;王磊的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/atosdps"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#116;&amp;#111;&amp;#115;&amp;#100;&amp;#112;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;&lt;/section&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 主持，&lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 联合主持，邀请到现&lt;a href="http://tisiwi.com"&gt;天使湾&lt;/a&gt;聚变计划负责人&lt;a href="http://makafei.com/blog"&gt;王磊&lt;/a&gt;来聊聊天使湾、种子投资和天使投资。&lt;/p&gt;
+
+&lt;p&gt;王磊的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/atosdps"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#097;&amp;#116;&amp;#111;&amp;#115;&amp;#100;&amp;#112;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://tisiwi.com/fusion"&gt;天使湾聚变计划&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ycombinator.com/"&gt;YC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xiaoenai.com/"&gt;小恩爱&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://code4app.com/"&gt;Code4App&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.zuoear.com/"&gt;左耳&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://poobbs.com/"&gt;涂鸦王国&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mark_Suster"&gt;Mark Suster&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Peter_Thiel"&gt;Peter Thiel&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1056461/"&gt;旅行的艺术&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://odesk.com"&gt;oDesk&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.forbes.com/sites/venkateshrao/2012/09/03/entrepreneurs-are-the-new-labor-part-i/"&gt;Entrepreneurs are the new labor&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/07/01/tisiwi-and-seed-funding.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_21.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_21.m4a</guid>
+      <pubDate>Mon, 01 Jul 2013 05:00:00 -0000</pubDate>
+      <itunes:duration>6954</itunes:duration>
+      <itunes:keywords>天使湾, 投资, 天使投资</itunes:keywords>
+    </item>
+    <item>
+      <title>#20 跟大牛们一起讨论底层开发和 Ruby VM</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，本期继续第17期的话题，跟两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来一起来聊聊底层开发，Ruby 虚拟机，以及大牛是怎样练成的。&lt;/p&gt;
+
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://twitter.com/lgn21st"&gt;Daniel Lv&lt;/a&gt; 主持，本期继续第17期的话题，跟两位来自 &lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt; 的大牛吕戈，王勇来一起来聊聊底层开发，Ruby 虚拟机，以及大牛是怎样练成的。&lt;/p&gt;
+
+&lt;p&gt;吕戈: 独立 Mac App 开发者，曾于淘宝和 ThePlant 工作。长年在 Ruby-Forum 和 Ruby China 潜水，偶尔解答诸如 &amp;quot;Y组合子怎么写最 cool&amp;quot; 之类的问题。喜欢 Sinatra，并与武鑫共同开发了基于 Sinatra 的 &lt;a href="http://yavaeye.com"&gt;鸭眼网&lt;/a&gt;。曾向 Padrino 和 BlueCloth 贡献过一点微不足道的代码，发过一些不为人知的 Rubygems，偶尔在杭州 Ruby Tuesday 担任吐槽角色。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/night_song"&gt;https://twitter.com/night_song&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Github: &lt;a href="https://github.com/luikore"&gt;https://github.com/luikore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Blog: &lt;a href="http://luikore.github.io/"&gt;http://luikore.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;王勇: 8 年 C/C++ 的从业经验，目前是一家 GPS 导航公司的资深技术研究员。是不折不扣的 Ruby 爱好者，MRuby 的 Code Committer。还是蓝光三人组的粉丝。也喜欢研究用 Ruby 捣鼓一些另类的玩意。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/skandhas_nil"&gt;https://twitter.com/skandhas_nil&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Weibo: &lt;a href="http://weibo.com/u/2338968722"&gt;http://weibo.com/u/2338968722&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Github: &lt;a href="https://github.com/skandhas"&gt;https://github.com/skandhas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.iteye.com/ask"&gt;JavaEye 的问答频道&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.bugmenot.com"&gt;BugMeNot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Just-in-time_compilation"&gt;JIT&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rednaxelafx.iteye.com"&gt;莫枢&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://theplant.jp"&gt;The Plant&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.cplusplus.com/reference/stl/"&gt;C++ STL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/谭浩强"&gt;谭浩强&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/1679623/"&gt;C语言程序设计&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/4888652/"&gt;敏捷web开发&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.amazon.com/The-Ruby-Way-Second-Edition/dp/0672328844"&gt;The Ruby way&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://golang.org"&gt;Golang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dlang.org"&gt;Dlang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.haskell.org"&gt;Haskell&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.scala-lang.org"&gt;Scala&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Objective-C"&gt;Objective-C&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://developer.apple.com/technologies/mac/cocoa.html"&gt;Cocoa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Calling_convention"&gt;Calling convention&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clang.llvm.org"&gt;Clang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://llvm.org"&gt;LLVM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/YARV"&gt;YARV&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Bytecode"&gt;字节码&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lua.org"&gt;Lua&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://zh.wikipedia.org/wiki/乱序执行"&gt;乱序执行&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://patshaughnessy.net/ruby-under-a-microscope"&gt;Ruby Under a Microscope&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://bugs.ruby-lang.org/issues/8339"&gt;Introducing Geneartional Garbage Collection for CRuby/MRI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/ruby-prof/ruby-prof"&gt;Ruby Prof&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/tmm1/perftools.rb"&gt;perftools.rb&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tenderlovemaking.com/2011/12/05/profiling-rails-startup-with-dtrace.html"&gt;Profiling Rails startup with dtrace&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://valgrind.org"&gt;Valgrind&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://gist.github.com/luikore/4745289"&gt;hat-cache-miss.md&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.xiami.com/song/1771834968?spm=0.0.0.0.bhV8sQ"&gt;Sound: Be&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blogs.adobe.com/typblography/2012/09/source-code-pro.html"&gt;Adobe Source Code Pro&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://os.51cto.com/art/201011/233915.htm"&gt;Linux 运维趋势&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/06/24/lets-talk-about-underlying-development-and-ruby-vm.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_20.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_20.m4a</guid>
+      <pubDate>Mon, 24 Jun 2013 06:00:00 -0000</pubDate>
+      <itunes:duration>6373</itunes:duration>
+      <itunes:keywords>underlying, rubyvm</itunes:keywords>
+    </item>
     <item>
       <title>#19 聊聊新加坡，聊聊RedDotRubyConf</title>
       <itunes:author>terry</itunes:author>
