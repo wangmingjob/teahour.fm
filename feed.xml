@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 15 Jul 2013 02:30:00 -0000</updated>
-    <lastBuildDate>Mon, 15 Jul 2013 02:30:00 -0000</lastBuildDate>
-    <pubDate>Mon, 15 Jul 2013 02:30:00 -0000</pubDate>
+    <updated>Tue, 20 Aug 2013 23:30:00 -0000</updated>
+    <lastBuildDate>Tue, 20 Aug 2013 23:30:00 -0000</lastBuildDate>
+    <pubDate>Tue, 20 Aug 2013 23:30:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,179 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#28 和Strikingly的CTO Dafeng聊聊他们和Y-Combinator的故事</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;和&lt;a href="https://twitter.com/poshboytl"&gt;Terry&lt;/a&gt;共同主持，邀请到了来自 &lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 的 CTO &lt;a href="https://twitter.com/dfguo"&gt;郭达峰&lt;/a&gt;来跟我们聊聊 Strikingly 的创业故事。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 是一家在美国成立的创业公司，公司的三位创始人均来自中国。从2011年8月开始写第一行代码，到2012年四月第一次尝试申请&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;，2012年7月团队成员在旧金山开始正式全职开发，8月份新版本上线，10月份实现收支平衡，11月份第二次申请YC，成功被YC的孵化器录取（Strikingly 同时也是第一家YC的中国团队），在之后的YC Demo Day上，Strinkly拿到第一名的好成绩，获得了多家创投的青睐并成功融资150万，他们的创业故事登上了纽约时报，今年6月份，Strikingly团队回到中国并正式入驻了创新工厂……&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;和&lt;a href="https://twitter.com/poshboytl"&gt;Terry&lt;/a&gt;共同主持，邀请到了来自 &lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 的 CTO &lt;a href="https://twitter.com/dfguo"&gt;郭达峰&lt;/a&gt;来跟我们聊聊 Strikingly 的创业故事。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt; 是一家在美国成立的创业公司，公司的三位创始人均来自中国。从2011年8月开始写第一行代码，到2012年四月第一次尝试申请&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;，2012年7月团队成员在旧金山开始正式全职开发，8月份新版本上线，10月份实现收支平衡，11月份第二次申请YC，成功被YC的孵化器录取（Strikingly 同时也是第一家YC的中国团队），在之后的YC Demo Day上，Strinkly拿到第一名的好成绩，获得了多家创投的青睐并成功融资150万，他们的创业故事登上了纽约时报，今年6月份，Strikingly团队回到中国并正式入驻了创新工厂……&lt;/p&gt;
+
+&lt;p&gt;关于郭达峰:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/dfguo"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/dfguo"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://www.strikingly.com/"&gt;Strikingly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://moneythink.org/"&gt;Money Think&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Minimum_viable_product"&gt;MVP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/rework"&gt;Rework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://copyhackers.com/"&gt;Copy hackers&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.com/articles/2-how-to-begin-soho-1"&gt;如何开始你的 SOHO 之旅 (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org/"&gt;RubyConfChina 2013&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/08/21/strikingly-yc-and-startup.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_28.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_28.m4a</guid>
+      <pubDate>Tue, 20 Aug 2013 23:30:00 -0000</pubDate>
+      <itunes:duration>5492</itunes:duration>
+      <itunes:keywords>startup, yc, lean startup, silicon valley</itunes:keywords>
+    </item>
+    <item>
+      <title>#27 与 Tinyfool 聊新媒体、创业经历和团队建设</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://smalltalk.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了 &lt;a href="http://tiny4.org/voice/"&gt;Tiny4Voice&lt;/a&gt;、 &lt;a href="http://tiny4cocoa.org"&gt;Tiny4Cocoa&lt;/a&gt;、&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;、&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;的创始人郝培强 tinyfool 来跟我们一起聊聊新媒体、创业经历和团队建设。从 2010 年尝试 podcast 到现在创业做新杂志，Tinyfool 一直在内容市场寻找方向和突破。创造有价值的内容，传播有价值的内容，为用户提供真正的价值，祝新杂志顺利！&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://smalltalk.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了 &lt;a href="http://tiny4.org/voice/"&gt;Tiny4Voice&lt;/a&gt;、 &lt;a href="http://tiny4cocoa.org"&gt;Tiny4Cocoa&lt;/a&gt;、&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;、&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;的创始人郝培强 tinyfool 来跟我们一起聊聊新媒体、创业经历和团队建设。从 2010 年尝试 podcast 到现在创业做新杂志，Tinyfool 一直在内容市场寻找方向和突破。创造有价值的内容，传播有价值的内容，为用户提供真正的价值，祝新杂志顺利！&lt;/p&gt;
+
+&lt;p&gt;Tinyfool 的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/tinyfool"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/tinyfool"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#116;&amp;#105;&amp;#110;&amp;#121;&amp;#102;&amp;#111;&amp;#111;&amp;#108;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tiny4.org/blog"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://tiny4.org/voice/"&gt;Tiny4Voice&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tiny4cocoa.org"&gt;Tiny4Cocoa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://iapp4me.com"&gt;iApp4Me&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tiny4.org"&gt;新杂志&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://logdown.com"&gt;Logdown&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.myaudiocast.com/podcasts/"&gt;MyAudioCast&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.apple.com/ibooks-author/"&gt;iBooks Author&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.udacity.com/course/cs262"&gt;Programming Languages: Building A Web Browser - Udacity&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tiny4cocoa.com/home/s/22/"&gt;Tiny4Cocoa iPad 杂志&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.apple.com.cn/airport-extreme/"&gt;AirPort Extreme&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.douban.com/subject/1261560/‎"&gt;国富论&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://smalltalk.xdite.net/posts/73953-how-to-create-a-remote-environment"&gt;如何打造一个远程工作的团队环境&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ihower.tw/blog/archives/2369"&gt;實戰敏捷開發之團隊開發篇&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;RubyConf China&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/08/05/interview-with-tinyfool-on-xinzazhi.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_27.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_27.m4a</guid>
+      <pubDate>Mon, 05 Aug 2013 03:00:00 -0000</pubDate>
+      <itunes:duration>5565</itunes:duration>
+      <itunes:keywords>创业, 新媒体, 团队建设</itunes:keywords>
+    </item>
+    <item>
+      <title>#26 和陈金洲聊金数据创业故事</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了ThoughtWorks 公司的资深顾问、&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;的创始人&lt;a href="http://michael.nona.name"&gt;陈金洲&lt;/a&gt; 来跟我们一起聊聊金数据的故事。实战中国互联网创业，开发在整个创业路上只是占很少一部分，市场定位，客户开发，文案设计、定价策略等等都很重要，来听听陈金洲在金数据是怎么做的，xdite 在 &lt;a href="http://logdown.com"&gt;logdown&lt;/a&gt; 是怎么做的吧。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;叶玎玎&lt;/a&gt;主持，Teahour 的老朋友 &lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了ThoughtWorks 公司的资深顾问、&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;的创始人&lt;a href="http://michael.nona.name"&gt;陈金洲&lt;/a&gt; 来跟我们一起聊聊金数据的故事。实战中国互联网创业，开发在整个创业路上只是占很少一部分，市场定位，客户开发，文案设计、定价策略等等都很重要，来听听陈金洲在金数据是怎么做的，xdite 在 &lt;a href="http://logdown.com"&gt;logdown&lt;/a&gt; 是怎么做的吧。&lt;/p&gt;
+
+&lt;p&gt;陈金洲的一些联系方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/mechiland"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/mechilandx"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#109;&amp;#101;&amp;#099;&amp;#104;&amp;#105;&amp;#108;&amp;#097;&amp;#110;&amp;#100;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://michael.nona.name"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最后，金洲专门给 Teahour 的听众准备了&lt;b&gt;金数据的优惠码 &amp;quot;TEAHOUR&amp;quot;&lt;/b&gt;, 8 月 11 号之前有效。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://logdown.com"&gt;LOGDOWN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jinshuju.net"&gt;金数据&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-2012-michael-chen"&gt;Beyond 'rails server'&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://aliyun.com"&gt;阿里云&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zhifubao.com"&gt;支付宝&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://paypal.com"&gt;Paypal&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://stripe.com"&gt;Stripe&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://fastspring.com"&gt;FastSpring&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.xingyii.com/"&gt;行易差旅协作软件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://training.kalzumeus.com/"&gt;Patrick McKenzie Teaches You To Sell More Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.entrepreneuronfire.com"&gt;Entrepreneurship On Fire&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2013/07/24/remote-team-the-things-you-should-know.html"&gt;远程工作经验谈 - 如何适应及如何管理&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/07/29/the-story-of-jinshuju.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_26.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_26.m4a</guid>
+      <pubDate>Mon, 29 Jul 2013 04:00:00 -0000</pubDate>
+      <itunes:duration>6388</itunes:duration>
+      <itunes:keywords>创业</itunes:keywords>
+    </item>
+    <item>
+      <title>#25 和又拍云(UPYun)的邵海杨聊运维</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 主持, 邀请到&lt;a href="http://upyun.com/"&gt;又拍云(UPYun)&lt;/a&gt;的运维总监&lt;a href="http://weibo.com/gg618"&gt;邵海杨&lt;/a&gt;一起聊聊运维，云存储，云加速，以及互联网运维人员的职业规划，发展方面的话题…&lt;/p&gt;
+
+&lt;h5 id="section"&gt;关于邵海杨:&lt;/h5&gt;
+
+&lt;p&gt;来自杭州Linux用户组。又拍云(UPYun)运维总监，网名“海洋之心”，资深系统运维/架构师，业余撰稿人，致力于开源软件及前沿科技的研究和探索。精通系统及网络管理，定制嵌入式系统，安全防御及CDN加速，互联网高性能网络及架构设计、NoSQL先行者、分布式文件系统Ceph、虚拟化及OpenStack云平台的研究等新技术，喜交流，活跃于社区，积极投身于开源活动的组织和传播，真诚待人，授人以渔，共同进步。&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://lvguoning.com"&gt;Daniel Lv&lt;/a&gt; 主持, 邀请到&lt;a href="http://upyun.com/"&gt;又拍云(UPYun)&lt;/a&gt;的运维总监&lt;a href="http://weibo.com/gg618"&gt;邵海杨&lt;/a&gt;一起聊聊运维，云存储，云加速，以及互联网运维人员的职业规划，发展方面的话题…&lt;/p&gt;
+
+&lt;h5 id="section"&gt;关于邵海杨:&lt;/h5&gt;
+
+&lt;p&gt;来自杭州Linux用户组。又拍云(UPYun)运维总监，网名“海洋之心”，资深系统运维/架构师，业余撰稿人，致力于开源软件及前沿科技的研究和探索。精通系统及网络管理，定制嵌入式系统，安全防御及CDN加速，互联网高性能网络及架构设计、NoSQL先行者、分布式文件系统Ceph、虚拟化及OpenStack云平台的研究等新技术，喜交流，活跃于社区，积极投身于开源活动的组织和传播，真诚待人，授人以渔，共同进步。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/gg618"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://shaohy.17geek.us"&gt;技术Wiki&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/shaohaiyang"&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="section-1"&gt;访谈笔记&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;邵海洋的运维经验分享&lt;/li&gt;
+  &lt;li&gt;介绍 UPYun Style Ops&lt;/li&gt;
+  &lt;li&gt;什么是自动化运维&lt;/li&gt;
+  &lt;li&gt;给运维人员成长的建议&lt;/li&gt;
+  &lt;li&gt;DevOps 在upyun的实践&lt;/li&gt;
+  &lt;li&gt;运维工程师如何不断修炼自己的运维能力，面对来自devops的挑战，面对来自云的挑战&lt;/li&gt;
+  &lt;li&gt;运维人员如何避免成为公司的『单点』&lt;/li&gt;
+  &lt;li&gt;关于wiki在企业内的知识管理和分享，如何处理海量信息，思考，以及沉淀&lt;/li&gt;
+  &lt;li&gt;运维人员的团队协作&lt;/li&gt;
+  &lt;li&gt;从运维人员到管理的角色转变&lt;/li&gt;
+  &lt;li&gt;UPYun如何做系统监控&lt;/li&gt;
+  &lt;li&gt;中间件和Openstack&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <link>http://teahour.fm/2013/07/22/interview-with-shaohaiyang-about-upyun-devops.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_25.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_25.m4a</guid>
+      <pubDate>Mon, 22 Jul 2013 13:00:00 -0000</pubDate>
+      <itunes:duration>6410</itunes:duration>
+      <itunes:keywords>devops, 运维</itunes:keywords>
+    </item>
     <item>
       <title>#24 和knewone的李路聊聊技术和精益创业</title>
       <itunes:author>terry</itunes:author>
@@ -102,7 +275,7 @@
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.vpncloud.me/"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -119,7 +292,7 @@
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
@@ -129,7 +302,7 @@
 &lt;/ul&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="http://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://vpncloud.me"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
