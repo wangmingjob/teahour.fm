@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Tue, 20 Aug 2013 23:30:00 -0000</updated>
-    <lastBuildDate>Tue, 20 Aug 2013 23:30:00 -0000</lastBuildDate>
-    <pubDate>Tue, 20 Aug 2013 23:30:00 -0000</pubDate>
+    <updated>Mon, 26 Aug 2013 04:30:00 -0000</updated>
+    <lastBuildDate>Mon, 26 Aug 2013 04:30:00 -0000</lastBuildDate>
+    <pubDate>Mon, 26 Aug 2013 04:30:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,61 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#29 和 Ubuntu Tweak 作者图拉鼎聊聊独立开发者</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;和&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;共同主持，邀请了 &lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 的作者&lt;a href="http://imtx.me/"&gt;图拉鼎&lt;/a&gt;来和我们聊聊他的成长历程以及独立开发者的方方面面。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 是一个为了方便所有人配置Ubuntu的工具。 它提供了许多默认系统并未提供的桌面和系统选项。 在它的帮助下，你的Ubuntu之旅将会更加愉快！&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://terrytai.com"&gt;Terry Tai&lt;/a&gt;和&lt;a href="https://twitter.com/lgn21st"&gt;Daniel&lt;/a&gt;共同主持，邀请了 &lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 的作者&lt;a href="http://imtx.me/"&gt;图拉鼎&lt;/a&gt;来和我们聊聊他的成长历程以及独立开发者的方方面面。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt; 是一个为了方便所有人配置Ubuntu的工具。 它提供了许多默认系统并未提供的桌面和系统选项。 在它的帮助下，你的Ubuntu之旅将会更加愉快！&lt;/p&gt;
+
+&lt;p&gt;关于图拉鼎：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://twitter.com/tualatrix"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://weibo.com/tualatrix"&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://imtx.me/"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://ubuntu-tweak.com/"&gt;Ubuntu Tweak&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://manico.im/"&gt;Manico&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cyrix"&gt;Cyrix&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Tualatin_(microprocessor)#Tualatin"&gt;Tualatin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.microcomputer.com.cn/"&gt;微型计算机&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Logo_(programming_language)"&gt;Logo programming language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/BASIC"&gt;BASIC programming language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ggv.com.cn/newweb/default.htm"&gt;文曲星&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ubuntu.com/"&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.canonical.com/"&gt;Canonical&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/979.htm"&gt;注册表&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/20844/8013115.htm?fromId=20844"&gt;DotA&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;Django&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mark_Shuttleworth"&gt;Mark Shuttleworth&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mouapp.com/"&gt;Mou&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://brew.sh/"&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mplayerx.org/"&gt;MPlayerX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://totalfinder.binaryage.com/"&gt;TotalFinder&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://macromates.com/"&gt;Textmate&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.google.com/analytics/"&gt;Google Analytics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/doo/GAJavaScriptTracker"&gt;GAJavaScriptTracker&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.duokan.com/%E6%94%B9%E5%8F%98%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%B9%9D%E5%A4%A7%E7%AE%97%E6%B3%95/b/39764"&gt;改变未来的九大算法&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knewone.com/things/blink-speaker"&gt;Blink 音箱&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2013/08/26/independent-developer-tualatrix.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_29.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_29.m4a</guid>
+      <pubDate>Mon, 26 Aug 2013 04:30:00 -0000</pubDate>
+      <itunes:duration>6050</itunes:duration>
+      <itunes:keywords>independent developer, OS, Mac, Ubuntu</itunes:keywords>
+    </item>
     <item>
       <title>#28 和Strikingly的CTO Dafeng聊聊他们和Y-Combinator的故事</title>
       <itunes:author>daniel</itunes:author>
