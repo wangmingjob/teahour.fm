@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 23 Dec 2013 10:26:00 -0000</updated>
-    <lastBuildDate>Mon, 23 Dec 2013 10:26:00 -0000</lastBuildDate>
-    <pubDate>Mon, 23 Dec 2013 10:26:00 -0000</pubDate>
+    <updated>Tue, 31 Dec 2013 02:58:00 -0000</updated>
+    <lastBuildDate>Tue, 31 Dec 2013 02:58:00 -0000</lastBuildDate>
+    <pubDate>Tue, 31 Dec 2013 02:58:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv 和 Kevin Wang 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,62 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#42 跟貔貅比特币交易所的邱亮聊聊比特币</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;比特币是2013年的一个热点话题，在 Teahour.FM 本年度收官之际，主持人 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 邀请到了&lt;a href="https://peatio.com"&gt;貔貅 Peatio比特币交易所&lt;/a&gt;的创始人&lt;a href="http://weibo.com/hpyhck"&gt;邱亮 HappyHacking&lt;/a&gt;来跟大家聊聊跟比特币相关的有趣的话题，包括比特币的历史，现状，原理，以及未来等等，本期话题非常适合对比特币背后的技术有兴趣的朋友。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;比特别是如何产生的&lt;/li&gt;
+  &lt;li&gt;比特币背后的技术&lt;/li&gt;
+  &lt;li&gt;如何解读中本聪的比特别创世论文&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;比特币是2013年的一个热点话题，在 Teahour.FM 本年度收官之际，主持人 &lt;a href="http://lvguoning.com"&gt;Daniel&lt;/a&gt; 邀请到了&lt;a href="https://peatio.com"&gt;貔貅 Peatio比特币交易所&lt;/a&gt;的创始人&lt;a href="http://weibo.com/hpyhck"&gt;邱亮 HappyHacking&lt;/a&gt;来跟大家聊聊跟比特币相关的有趣的话题，包括比特币的历史，现状，原理，以及未来等等，本期话题非常适合对比特币背后的技术有兴趣的朋友。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;比特别是如何产生的&lt;/li&gt;
+  &lt;li&gt;比特币背后的技术&lt;/li&gt;
+  &lt;li&gt;如何解读中本聪的比特别创世论文&lt;/li&gt;
+  &lt;li&gt;比特币的发展何现状&lt;/li&gt;
+  &lt;li&gt;比特币的获取方式&lt;/li&gt;
+  &lt;li&gt;比特币的交易安全&lt;/li&gt;
+  &lt;li&gt;比特别全网算力的发展史&lt;/li&gt;
+  &lt;li&gt;比特币的流通特点，交易特点&lt;/li&gt;
+  &lt;li&gt;国内外比特别交易平台的特点，现状&lt;/li&gt;
+  &lt;li&gt;全民所有制的比特币交易平台&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="section"&gt;关于邱亮&lt;/h4&gt;
+
+&lt;p&gt;weibo：&lt;a href="http://weibo.com/hpyhck"&gt;HappyHacking&lt;/a&gt;&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://peatio.com"&gt;貔貅 Peatio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bitcoin.org"&gt;Bitcoin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://bitcoin.org/bitcoin.pdf"&gt;Bitcoin: A Peer-to-Peer Electronic Cash System&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Peer-to-peer"&gt;P2P&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/公开密钥加密"&gt;非对称加密算法/公开密钥加密算法&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/link?url=A4VQa8eu8WcBprnNBkrt88j7noNQMmcbLB9B0SqVl5bS-PouQi8QNRld0wc6rsk0FyE-4QYjnY-EQKmHoN8zyq"&gt;中本聪&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.btc123.com/data/docs/bitcoin_cn.pdf"&gt;创世论文(翻译)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/wiki/通货紧缩"&gt;通货紧缩&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.mtgox.com"&gt;MT.Gox&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://btc-e.com"&gt;BTC-e&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://vip.btcchina.com"&gt;BTCChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xiaolai.li"&gt;李笑来&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2013/12/31/interview-with-qiuliang-about-bitcoin.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_42.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_42.m4a</guid>
+      <pubDate>Tue, 31 Dec 2013 02:58:00 -0000</pubDate>
+      <itunes:duration>6173</itunes:duration>
+      <itunes:keywords>bitcoin</itunes:keywords>
+    </item>
     <item>
       <title>#41 跟 Quake Wang 聊蝉游记</title>
       <itunes:author>daniel</itunes:author>
